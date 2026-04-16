@@ -32,6 +32,14 @@ This project was built using **AI-assisted development** (Claude Code). The enti
 
 It's a demonstration of how modern AI tools can accelerate product development from concept to a fully working web app.
 
+## 🚀 Deployment
+
+This project is deployed on Vercel.
+
+🔗 Live demo: https://your-project-name.vercel.app
+
+Vercel automatically builds and deploys the project from the main branch.
+
 ## Tech Stack
 
 - **Framework:** Next.js 16
