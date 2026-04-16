@@ -36,7 +36,7 @@ It's a demonstration of how modern AI tools can accelerate product development f
 
 This project is deployed on Vercel.
 
-🔗 Live demo: https://your-project-name.vercel.app
+🔗 Live demo: [https://your-project-name.vercel.app](https://ai-coffee-personality-quizz.vercel.app/)
 
 Vercel automatically builds and deploys the project from the main branch.
 
